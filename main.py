@@ -1,3 +1,6 @@
+# initial version by Will C. 2-5-2026 for the spring 2026 semester.
+# specical thanks to the engineering team and whoever invented the casette i suppose
+
 from tkinter import *
 import subprocess
 # 4 checkboxes, each with a button next to them and the final one having a text input box next to it.
